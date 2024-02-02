@@ -1,0 +1,19 @@
+name: CoRe-GD
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - pip
+  - cudatoolkit
+  - scipy
+  - networkx
+  - scikit-learn
+  - pandas
+  - numpy
+  - python==3.9
+  - attrdict
+  - matplotlib-base
+  - graphviz
+  - pygraphviz
