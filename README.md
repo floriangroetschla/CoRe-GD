@@ -23,7 +23,7 @@ pip install -e .
 
 # Install the graph coarsening implementation used in the paper
 ```
-it clone https://github.com/SergeiShumilin/graph-coarsening-up-to-date.git
+git clone https://github.com/SergeiShumilin/graph-coarsening-up-to-date.git
 cd graph-coarsening-up-to-date
 pip install -e .
 cd ..
